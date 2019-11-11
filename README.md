@@ -1,5 +1,4 @@
-# dev-day-labs
-Labs for AWS Dev Day Online
+# Labs for AWS Dev Day Online
 
 The following labs will give you hands-on experience with a number of the topics discussed during the Dev Day Online.
 
